@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <check>true</check>
+    <name>やきそば</name>
+    <test>300</test>
+  </Table1>
+  <Table1>
+    <check>true</check>
+    <name>かれー</name>
+    <test>700</test>
+  </Table1>
+  <Table1>
+    <name>うどん</name>
+    <test>500</test>
+  </Table1>
+</NewDataSet>
